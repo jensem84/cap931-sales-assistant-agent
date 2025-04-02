@@ -20,4 +20,4 @@ This project is a GPT-powered assistant for generating account insights for sale
 See `BetaData_One_Pager.pdf` for a sample insight.
 
 ## Author
-[Your Name] – Capstone Project for CAP 931 @ Per Scholas
+[JenSem84] – Capstone Project for CAP 931 @ Per Scholas
